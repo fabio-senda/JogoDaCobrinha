@@ -1,0 +1,34 @@
+C:\Users\fabio\source\repos\JogoDaCobrinha\JogoDaCobrinha\bin\Debug\net6.0-windows\JogoDaCobrinha.exe
+C:\Users\fabio\source\repos\JogoDaCobrinha\JogoDaCobrinha\bin\Debug\net6.0-windows\JogoDaCobrinha.deps.json
+C:\Users\fabio\source\repos\JogoDaCobrinha\JogoDaCobrinha\bin\Debug\net6.0-windows\JogoDaCobrinha.runtimeconfig.json
+C:\Users\fabio\source\repos\JogoDaCobrinha\JogoDaCobrinha\bin\Debug\net6.0-windows\JogoDaCobrinha.dll
+C:\Users\fabio\source\repos\JogoDaCobrinha\JogoDaCobrinha\bin\Debug\net6.0-windows\JogoDaCobrinha.pdb
+C:\Users\fabio\source\repos\JogoDaCobrinha\JogoDaCobrinha\obj\Debug\net6.0-windows\JogoDaCobrinha.csproj.AssemblyReference.cache
+C:\Users\fabio\source\repos\JogoDaCobrinha\JogoDaCobrinha\obj\Debug\net6.0-windows\JogoDaCobrinha.Form1.resources
+C:\Users\fabio\source\repos\JogoDaCobrinha\JogoDaCobrinha\obj\Debug\net6.0-windows\JogoDaCobrinha.csproj.GenerateResource.cache
+C:\Users\fabio\source\repos\JogoDaCobrinha\JogoDaCobrinha\obj\Debug\net6.0-windows\JogoDaCobrinha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\source\repos\JogoDaCobrinha\JogoDaCobrinha\obj\Debug\net6.0-windows\JogoDaCobrinha.AssemblyInfoInputs.cache
+C:\Users\fabio\source\repos\JogoDaCobrinha\JogoDaCobrinha\obj\Debug\net6.0-windows\JogoDaCobrinha.AssemblyInfo.cs
+C:\Users\fabio\source\repos\JogoDaCobrinha\JogoDaCobrinha\obj\Debug\net6.0-windows\JogoDaCobrinha.csproj.CoreCompileInputs.cache
+C:\Users\fabio\source\repos\JogoDaCobrinha\JogoDaCobrinha\obj\Debug\net6.0-windows\JogoDaCobrinha.dll
+C:\Users\fabio\source\repos\JogoDaCobrinha\JogoDaCobrinha\obj\Debug\net6.0-windows\refint\JogoDaCobrinha.dll
+C:\Users\fabio\source\repos\JogoDaCobrinha\JogoDaCobrinha\obj\Debug\net6.0-windows\JogoDaCobrinha.pdb
+C:\Users\fabio\source\repos\JogoDaCobrinha\JogoDaCobrinha\obj\Debug\net6.0-windows\JogoDaCobrinha.genruntimeconfig.cache
+C:\Users\fabio\source\repos\JogoDaCobrinha\JogoDaCobrinha\obj\Debug\net6.0-windows\ref\JogoDaCobrinha.dll
+G:\Meu Drive\Fatec\C#\JogoDaCobrinha\JogoDaCobrinha\bin\Debug\net6.0-windows\JogoDaCobrinha.exe
+G:\Meu Drive\Fatec\C#\JogoDaCobrinha\JogoDaCobrinha\bin\Debug\net6.0-windows\JogoDaCobrinha.deps.json
+G:\Meu Drive\Fatec\C#\JogoDaCobrinha\JogoDaCobrinha\bin\Debug\net6.0-windows\JogoDaCobrinha.runtimeconfig.json
+G:\Meu Drive\Fatec\C#\JogoDaCobrinha\JogoDaCobrinha\bin\Debug\net6.0-windows\JogoDaCobrinha.dll
+G:\Meu Drive\Fatec\C#\JogoDaCobrinha\JogoDaCobrinha\bin\Debug\net6.0-windows\JogoDaCobrinha.pdb
+G:\Meu Drive\Fatec\C#\JogoDaCobrinha\JogoDaCobrinha\obj\Debug\net6.0-windows\JogoDaCobrinha.csproj.AssemblyReference.cache
+G:\Meu Drive\Fatec\C#\JogoDaCobrinha\JogoDaCobrinha\obj\Debug\net6.0-windows\JogoDaCobrinha.Form1.resources
+G:\Meu Drive\Fatec\C#\JogoDaCobrinha\JogoDaCobrinha\obj\Debug\net6.0-windows\JogoDaCobrinha.csproj.GenerateResource.cache
+G:\Meu Drive\Fatec\C#\JogoDaCobrinha\JogoDaCobrinha\obj\Debug\net6.0-windows\JogoDaCobrinha.GeneratedMSBuildEditorConfig.editorconfig
+G:\Meu Drive\Fatec\C#\JogoDaCobrinha\JogoDaCobrinha\obj\Debug\net6.0-windows\JogoDaCobrinha.AssemblyInfoInputs.cache
+G:\Meu Drive\Fatec\C#\JogoDaCobrinha\JogoDaCobrinha\obj\Debug\net6.0-windows\JogoDaCobrinha.AssemblyInfo.cs
+G:\Meu Drive\Fatec\C#\JogoDaCobrinha\JogoDaCobrinha\obj\Debug\net6.0-windows\JogoDaCobrinha.csproj.CoreCompileInputs.cache
+G:\Meu Drive\Fatec\C#\JogoDaCobrinha\JogoDaCobrinha\obj\Debug\net6.0-windows\JogoDaCobrinha.dll
+G:\Meu Drive\Fatec\C#\JogoDaCobrinha\JogoDaCobrinha\obj\Debug\net6.0-windows\refint\JogoDaCobrinha.dll
+G:\Meu Drive\Fatec\C#\JogoDaCobrinha\JogoDaCobrinha\obj\Debug\net6.0-windows\JogoDaCobrinha.pdb
+G:\Meu Drive\Fatec\C#\JogoDaCobrinha\JogoDaCobrinha\obj\Debug\net6.0-windows\JogoDaCobrinha.genruntimeconfig.cache
+G:\Meu Drive\Fatec\C#\JogoDaCobrinha\JogoDaCobrinha\obj\Debug\net6.0-windows\ref\JogoDaCobrinha.dll
